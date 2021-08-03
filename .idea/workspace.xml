@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10cab584-6a71-4fd5-926c-851459e1f5ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAssignments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/ChangeCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/CheckPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/Pint1to10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/PrintColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/PrintEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/PrintMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/Collection1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/Collection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/PrintPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/ReverseNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/CheckGenAndAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/CheckGenAndAge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CheckPrime">
+  <component name="RunManager" selected="Application.ReverseNumber">
     <configuration name="CheckPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.training.assignments.CheckPrime" />
       <module name="JavaAssignments" />
@@ -67,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pint1to10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.assignments.Pint1to10" />
+    <configuration name="Collection1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.assignments.Collection1" />
       <module name="JavaAssignments" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.assignments.PrintColor" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.assignments.Palindrome" />
       <module name="JavaAssignments" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.assignments.PrintMonth" />
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.assignments.ReverseNumber" />
       <module name="JavaAssignments" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Collection1" />
         <item itemvalue="Application.CheckPrime" />
         <item itemvalue="Application.PrintEven" />
-        <item itemvalue="Application.Pint1to10" />
-        <item itemvalue="Application.PrintMonth" />
-        <item itemvalue="Application.PrintColor" />
       </list>
     </recent_temporary>
   </component>
@@ -150,5 +145,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
