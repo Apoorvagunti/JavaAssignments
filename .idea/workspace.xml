@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10cab584-6a71-4fd5-926c-851459e1f5ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/Collection1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/Collection2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/PrintPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/ALStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/AlEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/ArrayLstE1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/DoWhileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/LinkdlstEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/VectEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyAssignments/src/com/training/assignments/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +50,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ReverseNumber">
-    <configuration name="CheckPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.assignments.CheckPrime" />
+  <component name="RunManager" selected="Application.VectEx1">
+    <configuration name="ALStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.assignments.ALStrings" />
       <module name="JavaAssignments" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collection1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.assignments.Collection1" />
+    <configuration name="AlEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.assignments.AlEmployee" />
       <module name="JavaAssignments" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.assignments.Palindrome" />
+    <configuration name="ArrayLstE1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.assignments.ArrayLstE1" />
       <module name="JavaAssignments" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.assignments.PrintEven" />
+    <configuration name="LinkEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.assignments.LinkEx1" />
       <module name="JavaAssignments" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.assignments.ReverseNumber" />
+    <configuration name="VectEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.assignments.VectEx1" />
       <module name="JavaAssignments" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Collection1" />
-        <item itemvalue="Application.CheckPrime" />
-        <item itemvalue="Application.PrintEven" />
+        <item itemvalue="Application.VectEx1" />
+        <item itemvalue="Application.LinkEx1" />
+        <item itemvalue="Application.ArrayLstE1" />
+        <item itemvalue="Application.AlEmployee" />
+        <item itemvalue="Application.ALStrings" />
       </list>
     </recent_temporary>
   </component>
